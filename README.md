@@ -3,7 +3,7 @@
 </p>
 <div align='center'>
   
-  <a href="#">[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/bluemingcloud/ceffb85ff2f441c390816bb76fe710a9?v=43ea9c26c2e84e76934bcd9aff1e22ed&pvs=4)</a>
+  <a href="#">[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://bluemingcloud.notion.site/Sumin-Baek-12e19fedfc7980cf8363cbad30faed06)</a>
   <a href="#">[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bluemingcloud0911@gmail.com)](mailto:bluemingcloud0911@gmail.com)</a>
 
 </div>
